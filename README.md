@@ -1,5 +1,5 @@
-# web-postit
-WebPostit is a system developed to make some notations about everything you want.
+# Postsystem
+Postsystem is a system developed to make some notations about everything you want.
 
 # Checklist | Indicadores de Desempenho (ID) dos Resultados de Aprendizagem (RA)
 
