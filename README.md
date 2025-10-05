@@ -1,6 +1,9 @@
 # Postsystem
-Postsystem is a system developed to make some notations about everything you want.
-<img width="1024" height="1024" alt="postsystem_logo" src="https://github.com/user-attachments/assets/5b2ead0b-8754-4e13-b571-afede0d178ab" />
+<img width="412" height="411" alt="logo" src="https://github.com/user-attachments/assets/d04463bd-4341-4ad9-97f4-2d59ad713044" /> Postsystem is a system developed to make some notations about everything you want.
+
+# Prototype
+You can view our prototype on figma link below.
+https://www.figma.com/design/e046gQGQAd9Zt6zmUhPKzV/Codia-AI-Design--Screenshot-to-Editable-Figma-Design--Community-?node-id=0-1&m=dev&t=feFSQGVAhjMhWGAN-1
 
 
 # Checklist | Indicadores de Desempenho (ID) dos Resultados de Aprendizagem (RA)
