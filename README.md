@@ -1,5 +1,5 @@
 # Postsystem
-<img width="412" height="411" alt="logo" src="https://github.com/user-attachments/assets/d04463bd-4341-4ad9-97f4-2d59ad713044" /> Postsystem is a system developed to make some notations about everything you want.
+<img width="20" height="20" alt="logo" src="https://github.com/user-attachments/assets/d04463bd-4341-4ad9-97f4-2d59ad713044" /> Postsystem is a system developed to make some notations about everything you want.
 
 # Prototype
 You can view our prototype on figma link below.
