@@ -1,0 +1,29 @@
+Geração de componente:
+    ng g c components/nome_do_componente
+
+Geração de serviços:
+    ng g s services/nome_do_service
+
+rodar angular: 
+    ng serve
+
+rodar o pocketbase:
+    .\pocketbase serve
+
+rodar o tailwindcss:
+    npm run tailwindcss
+
+GITHUB
+
+git branch
+
+git checkout -b develop origin/develop
+git branch develop origin/develop
+
+git branch -d feature/minha-feature
+git push origin --delete feature/minha-feature
+
+git checkout main
+git pull origin main
+git merge develop
+git push origin main
